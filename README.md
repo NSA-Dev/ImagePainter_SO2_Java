@@ -1,4 +1,9 @@
-# ImagePainter_SO2_Java
-Lab project for Software Construction 2 course at HAW Hamburg
+# ImagePainter SO2
+Lab project for Software Construction 2 Java course at HAW Hamburg
 
+## Overview
+As introduction to object oriented programming in Java, we were tasked with building a small application capable of generating images (In my case Ostrich). 
+Sizes, colors and item variations are randomly generated per user input. Image states are controlled via a simple GUI pannel. 
+
+## Short demo
 ![](https://github.com/NSA-Dev/ImagePainter_SO2_Java/blob/main/PainterGif.gif)
